@@ -1,0 +1,15 @@
+.card {
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 15px;
+	border: 1px solid #ccc;
+	max-width: 300px;
+}
+
+.card-name {
+	font-size: 24px;
+	font-weight: bold;
+	margin: 20px auto;
+}
+
